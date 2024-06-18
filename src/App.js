@@ -12,7 +12,7 @@ function App() {
           target="_blank"
           className="ml-5"
           rel="noopener noreferrer"
-          href="https://www.github.com/vipevel"
+          href="https://www.github.com/vipevel/"
         >
           VipEveL
         </a>
